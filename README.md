@@ -1,5 +1,5 @@
 <p align="center">
-  <!-- <img align="center" src="https://github.com/FeloniousGru-Super/FeloniousGru-Super/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/> -->
+  <img align="center" src="https://github.com/FeloniousGru-Super/FeloniousGru-Super/blob/main/logo.png?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=FeloniousGru-Super.FeloniousGru-Super" />
 <img align="right" src="https://img.shields.io/github/followers/FeloniousGru-Super?label=Follow&style=social" />
@@ -64,6 +64,3 @@
 <br />
 
 </div>
-# FeloniousGru-Super
-# FeloniousGru-Super
-# FeloniousGru-Super
