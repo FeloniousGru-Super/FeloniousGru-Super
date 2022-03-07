@@ -13,11 +13,25 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- I am a Full-stack developer with rich experience in blockchain development.
-- Have experience of over 6 years
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://cvdesignr.com/p/61defca1eddd4)| [MY SITE](https://paulmartin-1125.web.app/).
-- :nerd_face: Always `learning new things`
+▲ Blockchain
+- Ethereum | Binance Smart Chain | Polygon | AVAX | Solana
+- DAO | DEX | NFT | Marketplace | Token | DeFi | P2E
+- Web3.js | Ether.js | useDapp | Solidity | Smart Contract | Truffle | Remix | HardHat | Moralis
+- Rust | Program | Metaplex | Candy Machine
+- IPFS | Arweave
 
+▲ Front End
+- React.js | Next.js | Vue | Angular | Redux | Vuex
+- HTML | CSS | BootStrap | Tailwind CSS | PHP | JavaScript | TypeScript | Python | Ruby
+- Socket
+
+▲ Back End & Service
+- Node.js | Express | Laravel | Django | Ruby on Rails
+- MySql | MongoDB | PostgreSQL | Firebase
+- Sequelize | Mongoose
+- GraphQL | Apollo
+- Git | SVN | NgInx
+
+- AWS | Lambda | CloudFront | EC2 | S3
+- NgInx | PM2
 <br>
