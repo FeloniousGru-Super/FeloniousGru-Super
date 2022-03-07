@@ -8,14 +8,12 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-<br><br>
-
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Suez Canal University
 - :trophy: `ACPC` Finalist 2021
 - :technologist: I love using Software as a solution for every `Problem`
 - :computer: I am a competitive programmer mainly at `Codeforces`
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://cvdesignr.com/p/61defca1eddd4) [MY SITE](https://paulmartin-1125.web.app/).
 - :nerd_face: Always `learning new things`
 
 <br>
