@@ -5,27 +5,6 @@
 <br>
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-###
-I am Paul Martin, a full-stack developer with over 6 years of rich experience in blockchain development.
-During a long development period, my skill set was improved so much and I worked for many companies and clients remotely.
-I have developed so many websites for various purposes from FE to BE.
-In the last 3 years, I noticed that the blockchain industry boosted rapidly and I decided to turn my career to the blockchain.
-As a blockchain engineer, I have engaged on so many blockchain projects.
-I have focused on Smart Contract development with Solidity for 3 years.
-Developed the smart contracts and full-stack blockchain projects (FE + BE).
-
-I wish to become the best developer in the blockchain space and now I am still trying hard and challenging myself.
-
-In those days, my skill set in blockchain such as Ethereum, Smart contract, NFT minting, and NFT marketplace for P2E game on Ethereum compatible blockchains and Solana blockchain and useDapp, Web3.js and Ether.js for FE was so much improved.
-As you know SPA frameworks are used for FE development of blockchain projects,
-and I am expert on React, Vue, Next, Angular, and plus TypeScript.
-And I am familiar with Real-time connection.
-For 3 years, during focusing on blockchain development, the skill set for full-stack development is boosted one more level.
-
-I am absolutely sure I can play an important role in your company and I can work long periods for your company's success.
-If you have an issue, feel free to contact me.
-I will solve your problem perfectly with my experience.
-  </div>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - I am a Full-stack developer with rich experience in blockchain development.
