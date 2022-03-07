@@ -5,7 +5,7 @@
 <br>
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<div>
+###
 I am Paul Martin, a full-stack developer with over 6 years of rich experience in blockchain development.
 During a long development period, my skill set was improved so much and I worked for many companies and clients remotely.
 I have developed so many websites for various purposes from FE to BE.
