@@ -5,8 +5,8 @@
 <br>
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
 
-<p>
-  I am Paul Martin, a full-stack developer with over 6 years of rich experience in blockchain development.
+<div>
+I am Paul Martin, a full-stack developer with over 6 years of rich experience in blockchain development.
 During a long development period, my skill set was improved so much and I worked for many companies and clients remotely.
 I have developed so many websites for various purposes from FE to BE.
 In the last 3 years, I noticed that the blockchain industry boosted rapidly and I decided to turn my career to the blockchain.
@@ -25,7 +25,7 @@ For 3 years, during focusing on blockchain development, the skill set for full-s
 I am absolutely sure I can play an important role in your company and I can work long periods for your company's success.
 If you have an issue, feel free to contact me.
 I will solve your problem perfectly with my experience.
-  </p>
+  </div>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
 - I am a Full-stack developer with rich experience in blockchain development.
