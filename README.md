@@ -4,7 +4,7 @@
 </p>
 <br>
 
-## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About me
+## About me
 
 I'm a passionate self-taught Blockchain engineer and Front-End developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 <br>
