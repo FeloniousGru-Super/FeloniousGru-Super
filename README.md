@@ -11,8 +11,6 @@ I'm a passionate self-taught Blockchain engineer and Front-End developer. My pas
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 <br>
 
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-
 ▲ Blockchain
 - Ethereum | Binance Smart Chain | Polygon | AVAX | Solana
 - DAO | DEX | NFT | Marketplace | Token | DeFi | P2E
